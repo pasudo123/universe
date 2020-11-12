@@ -25,7 +25,7 @@
 * 액면가란, `최초 주식 발행 시, 1주당 가격` 을 의미한다.
 * 주가란, `주식의 시작가격` 을 의미한다.
 * 자본금 = 주식수 * 액면가
-* 부동산의 분양가 및 매매가를 생각하면 된다.
+* 부동산의 분양가(처음) 및 매매가(판매) 를 생각하면 된다.
 
 <BR> 
 
@@ -130,4 +130,3 @@
 ## reference
 * [주식을 하려면 꼭 알고 있어야 할 기본 지식 | 주식초보 입문서](https://www.youtube.com/watch?v=LzXzHoXO5ZE&ab_channel=14F%EC%9D%BC%EC%82%AC%EC%97%90%ED%94%84)
 * [주식 기초 2탄 | 주식은 언제, 어떻게, 무슨 종목을 사야할까?](https://www.youtube.com/watch?v=-d291restec&ab_channel=14F%EC%9D%BC%EC%82%AC%EC%97%90%ED%94%84)
-* [주식 초보라면 꼭 알아둬야 할 차트보는 방법](https://www.youtube.com/watch?v=hI3pzjLbOzY&ab_channel=14F%EC%9D%BC%EC%82%AC%EC%97%90%ED%94%84)
