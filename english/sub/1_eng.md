@@ -8,11 +8,21 @@
 속도를 줄임으로써, 우리의 내적인 상태를 점검할 수 있고, attention 을 좀 더 효과적으로 잘 전달할 수 있다고 말한다.
 
 ## 관계대명사 
-> I like the woman who ? plays the piano well (주격 생략)   
-> who 뒤에 주어가 없다.
+* I like the woman who ? plays the piano well (주격 생략)
+    * who 뒤에 주어가 없다.
 
-> this is my shirt which i bought yesterday (목적격 생략)   
-> which 뒤에 목적어가 없음.
+* this is my shirt which i bought yesterday (목적격 생략)   
+    * which 뒤에 목적어가 없음.
+
+## 과거분사 (have + pp)
+* 나 ~ 했다.
+* i lost my passport
+    * 나는 여권을 잃어버렸다. (과거에 잃어버린 사실을 강조)
+* i have lost my passport   
+    * 나는 여권을 잃어버렸다. (아직도 못찾고 있는 상태라는 것을 강조)   
+    * __과거 시간과 함께 쓰일 수 없다.__
+
+
 
 ## reference
 https://hakmalyoung.tistory.com/172
